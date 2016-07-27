@@ -10,6 +10,7 @@ function randomColor() {
 	color+= randomRGB()+ ',';
 	color+= randomRGB()+ ',';
 	color+= randomRGB()+ ')';
+	
 	return color;
 	
 }
